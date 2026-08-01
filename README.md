@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0229-majority-element-ii) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
