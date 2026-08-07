@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
@@ -76,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SanikaParkhe/150_Leetcode_Challenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
