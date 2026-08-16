@@ -7,10 +7,10 @@ class Solution {
             int mid = start + (end - start)/2;
             if(nums[mid] < nums[end]){
                 end = mid;
-                mid = start + (end - start)/2;
+                //mid = start + (end - start)/2;
             }else{
                     start = mid + 1;
-                    mid = start + (end - start)/2;
+                    //mid = start + (end - start)/2;
                 }
         }
         return nums[start];
